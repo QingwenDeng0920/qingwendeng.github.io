@@ -1,6 +1,7 @@
 ---
 title: "Administrative Reform as Institutional Purge: Evidence from Vietnam"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-07-02-institutional-purge-vietnam
 excerpt: 'A formal model of authoritarian power-sharing in which rulers choose among retention, personnel purge, and institutional purge, tested with an original dataset linking Vietnam''s 2025 provincial consolidation to 304 central elite profiles and 1,031 local elite career-network nodes.'
 date: 2026-07-02
