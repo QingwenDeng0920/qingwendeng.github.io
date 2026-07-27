@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF version [here](/files/Qingwen_Deng_CV.pdf).
-
 Education
 ======
 * M.A. in Analytical Political Economy, Duke University, Aug 2024 – May 2026
@@ -66,6 +64,3 @@ Awards
 ======
 * Distinguished Undergraduate Thesis, Renmin University of China — Jun 2024
 
-Talks
-======
-* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" — American Political Science Association (APSA) Annual Meeting, Sep 2026
