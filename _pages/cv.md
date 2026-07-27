@@ -21,7 +21,7 @@ Research Experience
   * Supervisor: Yichun Fan and Martin Smith
   *  Contribute to multiple faculty-led projects, including: Crowding-out effects between public and private climate adaptation investment; Local political economy of urban climate resilience; Seafood consumption and health
 
-* **Research Assistant**, Duke University — Sep 2025 – present
+* **Research Assistant**, Duke University — Sep 2025 – May 2026
   * Supervisor: Jiawei Fu
   * Conduct methodological research on heterogeneous treatment effects, including data processing, estimator derivation, and model comparison
 
