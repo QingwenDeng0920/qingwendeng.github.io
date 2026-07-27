@@ -1,0 +1,14 @@
+---
+title: "Power Analysis for Heterogeneous Treatment Effects"
+excerpt: "A simulation-based power analysis framework for heterogeneous treatment effect (HTE/CATE) estimation, comparing R-learner, DR-learner, and generalized random forests (GRF) under controlled data-generating-process shifts via repeated-split best linear predictor inference.<br/><img src='/images/hte-power.png'>"
+collection: portfolio
+---
+
+This project provides a simulation-based power analysis framework for heterogeneous treatment effect (HTE/CATE) estimation. It compares R-learner, DR-learner, and generalized random forest (GRF) estimators under controlled shifts to the data-generating process, using repeated-split best linear predictor (BLP) inference to assess statistical power. This work grew out of my role as a research assistant on heterogeneous treatment effects methodology at Duke University.
+
+**Repository:** [github.com/QingwenDeng0920/hte-power-analysis](https://github.com/QingwenDeng0920/hte-power-analysis)
+
+**Key features:**
+* Comparison of R-learner, DR-learner, and GRF estimators
+* Repeated-split BLP inference for power assessment
+* Written in R
