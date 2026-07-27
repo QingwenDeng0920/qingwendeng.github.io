@@ -1,6 +1,7 @@
 ---
 title: "Political Windows and the Dynamics of Temporary Pollution Abatement"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-07-01-political-windows
 excerpt: 'A two-region dynamic model shows when politically visible pollution cleanups (mega-events, inspections, alert days) generate lasting welfare gains versus mere post-window rebound, testing the predictions with China''s Central Environmental Inspection rollout and within-airshed spatial designs.'
 date: 2026-07-01
