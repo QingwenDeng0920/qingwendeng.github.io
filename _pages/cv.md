@@ -20,7 +20,8 @@ Education
 Research Experience
 ======
 * **Pre-doctoral Research Associate**, Duke University, Nicholas School of the Environment — Aug 2026 – present
-  *  Contribute to multiple faculty-led projects, including: Crowding-out eFFects between public and private climate adaptation investment; Local political economy of urban climate resilience; Seafood consumption and health.
+  * Supervisor: Yichun Fan and Martin Smith
+  *  Contribute to multiple faculty-led projects, including: Crowding-out effects between public and private climate adaptation investment; Local political economy of urban climate resilience; Seafood consumption and health
 
 * **Research Assistant**, Duke University — Sep 2025 – present
   * Supervisor: Jiawei Fu
