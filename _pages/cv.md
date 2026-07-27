@@ -32,9 +32,13 @@ Research Experience
 Working Papers
 ======
 * "Political Windows and the Dynamics of Temporary Pollution Abatement" (single-authored). Working paper.
-* "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with ). Working paper, under review at *British Journal of Political Science*.
-* "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with co-author). Working paper.
-* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" (in progress). To be presented at APSA 2026.
+* "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with Xiongfu Xiao and Shaoxuanzi Sheng). Working paper, under review at *British Journal of Political Science*.
+* "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with Xionfu Xiao and Qinnan Zhou). Working paper.
+* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" (with Xiongfu Xiao). To be presented at APSA 2026.
+* "Allocating Property Rights:Extraction without Development in Cambodia" (with Xiongfu Xiao, Qinnan Zhou and Hui Yang). Working paper.
+* "Preference Falsification in Ethnic Identification of Newborns in Inter-ethnic Family" (single-authored). Working paper.
+* "The Long-term Effects of New Method of Birth Delivery" (with Yinan Liu and Boxiao Zhang). Working paper.
+  
 
 Selected Coursework
 ======
