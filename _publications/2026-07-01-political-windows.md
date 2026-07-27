@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-07-01-political-windows
 excerpt: 'A two-region dynamic model shows when politically visible pollution cleanups (mega-events, inspections, alert days) generate lasting welfare gains versus mere post-window rebound, testing the predictions with China''s Central Environmental Inspection rollout and within-airshed spatial designs.'
-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7035738"
 date: 2026-07-01
 venue: 'Working paper'
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7035738"
