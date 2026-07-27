@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Political Windows and the Dynamics of Temporary Pollution Abatement"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-07-01-political-windows
+excerpt: 'A two-region dynamic model shows when politically visible pollution cleanups (mega-events, inspections, alert days) generate lasting welfare gains versus mere post-window rebound, testing the predictions with China''s Central Environmental Inspection rollout and within-airshed spatial designs.'
+date: 2026-07-01
+venue: 'Working paper, under review at *Environmental and Resource Economics*'
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7035738"
+citation: 'Deng, Qingwen. 2026. &quot;Political Windows and the Dynamics of Temporary Pollution Abatement.&quot; Working paper, Duke University.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Many environmental policies produce sharp but short-lived improvements around politically salient dates: international summits, regulatory inspections, and pollution alerts. This paper develops a two-region, infinite-horizon linear–quadratic model in which a temporary increase in the weight on a core jurisdiction's pollution stock induces anticipatory abatement, post-window rebound, and a coordination wedge between a planner and a decentralized Markov-perfect equilibrium. The model is tested using a stacked difference-in-differences design on China's Central Environmental Inspection rollout, a within-airshed ring design comparing Beijing to London and Paris, and a descriptive cross-national panel of sixteen visibility-window events in six countries. The results suggest that temporary abatement is not necessarily cosmetic, but its durability depends on institutions that internalize spatial spillovers.
+
+[PDF]((https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7035738))
