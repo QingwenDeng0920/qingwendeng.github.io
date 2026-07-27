@@ -16,6 +16,7 @@ My current working papers examine:
 - how authoritarian rulers use administrative reform to selectively purge institutional platforms rather than individuals, using an original dataset on Vietnam's 2025 provincial consolidation;
 - how routinizing campaign-style environmental enforcement in China interacts with bureaucratic fragmentation to shape state capacity.
 - how personalization affect the state capacity via distorting the local bureaucracies' representation
+
 I am applying to PhD programs for Fall 2027 entry in political science, applied/environmental economics, and related interdisciplinary fields. Feel free to reach out at [qingwen.deng@duke.edu](mailto:qingwen.deng@duke.edu).
 
 ## Selected Working Papers
