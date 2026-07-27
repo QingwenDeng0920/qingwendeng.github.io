@@ -9,56 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+Download a PDF version [here](/files/Qingwen_Deng_CV.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Analytical Political Economy, Duke University, Aug 2024 – May 2026
+* B.A. in Economics; B.M. in Management, Renmin University of China, Sep 2020 – Jun 2024
+* Exchange Student, The University of Hong Kong, Aug 2022 – Dec 2022
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Pre-doctoral Research Associate**, Duke University, Nicholas School of the Environment — Aug 2026 – present
+  *  Contribute to multiple faculty-led projects, including: Crowding-out eFFects between public and private climate adaptation investment; Local political economy of urban climate resilience; Seafood consumption and health.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant**, Duke University — Sep 2025 – present
+  * Supervisor: Jiawei Fu
+  * Conduct methodological research on heterogeneous treatment effects, including data processing, estimator derivation, and model comparison
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Assistant**, Renmin University of China — May 2023 – Jun 2024
+  * Supervisor: Ziwei Ye
+  * Collected policy data, conducted statistical analysis, and supported research on the economic effects of gene-editing technologies
+
+Working Papers
+======
+* "Political Windows and the Dynamics of Temporary Pollution Abatement" (single-authored). Working paper.
+* "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with ). Working paper, under review at *British Journal of Political Science*.
+* "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with co-author). Working paper.
+* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" (in progress). To be presented at APSA 2026.
+
+Selected Coursework
+======
+Economics / Econometrics
+* Microeconomics Theory
+* Introduction to Econometrics
+* Core in Political Economy
+* Natural Resource Economics
+* Health Economics
+* Mathematical Economics
+
+Mathematics / Computing
+* Introduction to Real Analysis
+* Calculus
+* Linear Algebra
+* Probability and Statistics
+* Statistical Machine Learning
+* Introduction to Machine Learning
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** R, Python, MATLAB, Stata
+* **Research Tools:** LaTeX, ArcGIS, Microsoft Office
+* **Languages:** Mandarin Chinese (native), English (IELTS 7.5), Cantonese (beginner)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Distinguished Undergraduate Thesis, Renmin University of China — Jun 2024
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" — American Political Science Association (APSA) Annual Meeting, Sep 2026
