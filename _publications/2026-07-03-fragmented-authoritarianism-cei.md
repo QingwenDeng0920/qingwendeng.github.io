@@ -1,6 +1,7 @@
 ---
 title: "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-07-03-fragmented-authoritarianism-cei
 excerpt: 'This paper studies whether turning China''s Central Environmental Inspection from an ad-hoc campaign into a routinized institution builds durable local state capacity or merely repackages short-term compliance, using a novel Fragmentation Index and staggered difference-in-differences design.'
 date: 2026-07-03
