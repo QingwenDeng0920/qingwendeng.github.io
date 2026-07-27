@@ -46,13 +46,11 @@
       {% endif %}
     {% endunless %}
 
-    {% unless post.collection == 'publications' %}
-      {% if post.excerpt and site.read_more != 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% elsif post.excerpt and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<stron...
-      {% endif %}
-    {% endunless %}
+    {% if post.excerpt and site.read_more != 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}">Read more</a></strong></p>
+    {% endif %}
 
                                                                                                                                       
     {% unless post.collection == 'publications' %}
