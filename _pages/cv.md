@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.A. in Analytical Political Economy, Duke University, Aug 2024 – May 2026
-* B.A. in Economics; B.M. in Management, Renmin University of China, Sep 2020 – Jun 2024
-* Exchange Student, The University of Hong Kong, Aug 2022 – Dec 2022
+* M.A. in Analytical Political Economy, Duke University, 2026
+* B.A. in Economics; B.M. in Management, Renmin University of China, 2024
+* Exchange Student, The University of Hong Kong, 2022
 
 Research Experience
 ======
